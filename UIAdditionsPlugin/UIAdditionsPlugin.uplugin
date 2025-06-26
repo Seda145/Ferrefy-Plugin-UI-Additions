@@ -1,0 +1,44 @@
+{
+	"EngineVersion": "5.6.0",
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UI Additions Plugin",
+	"Description": "UI Additions Plugin",
+	"Category": "Ferrefy",
+	"CreatedBy": "Ferrefy",
+	"CreatedByURL": "https://ferrefy.com",
+	"DocsURL": "https://ferrefy.com/documentation/ui-additions-plugin/",
+	"MarketplaceURL": "https://www.fab.com/sellers/Ferrefy",
+	"SupportURL": "https://ferrefy.com",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "UIAdditionsPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [ "Win64" ],
+			"PlatformDenyList": []
+		},
+		{
+			"Name": "UIAdditionsPluginEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [ "Win64" ],
+			"PlatformDenyList": []
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "UtilityPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "CentralUIPlugin",
+			"Enabled": true
+		}
+	]
+}
