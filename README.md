@@ -2,6 +2,8 @@
 
 # Ferrefy: UI Additions
 
+![Banner_UIAdditionsPlugin](https://github.com/user-attachments/assets/e76c5081-6978-420f-8c0b-0c15ece32978)
+
 ---
 ### Introduction
 ---
@@ -55,6 +57,25 @@ To support me and future software development, you can buy [Ferrefy plugins on F
 ---
 
 Take a quick look at some of the key features of this plugin. Interested? Click the documentation link to watch all media and learn more.
+
+
+https://github.com/user-attachments/assets/816329fb-021e-496c-89ff-e5bed5145a6b
+
+![MediaGallery_UIAdditionsPlugin_6](https://github.com/user-attachments/assets/c367d14d-fd13-4a59-8d8a-9d182f0195f1)
+
+![MediaGallery_UIAdditionsPlugin_1](https://github.com/user-attachments/assets/56b05aac-0494-426b-868e-61ee08f4c353)
+
+![MediaGallery_UIAdditionsPlugin_2](https://github.com/user-attachments/assets/68eef220-5841-4dc4-9352-8d229464fbef)
+
+![MediaGallery_UIAdditionsPlugin_3](https://github.com/user-attachments/assets/ef604dce-e605-4ca8-9a02-923dbe420d21)
+
+![MediaGallery_UIAdditionsPlugin_4](https://github.com/user-attachments/assets/1649f025-d073-432d-a3a9-d454bda6f8b9)
+
+![MediaGallery_UIAdditionsPlugin_5](https://github.com/user-attachments/assets/d3b64bfa-512a-4974-8eba-81c3168c1753)
+
+![MediaGallery_UIAdditionsPlugin_7](https://github.com/user-attachments/assets/a4ed994a-362f-4207-98d1-4d4d4a7ca1fe)
+
+![MediaGallery_UIAdditionsPlugin_8](https://github.com/user-attachments/assets/4d1b3627-11c4-4e36-b0c1-0d0cad6a0a6d)
 
 ---
 ### About me
