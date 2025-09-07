@@ -26,7 +26,7 @@ Some example images show UI content of my [Custom Settings Plugin](https://githu
 ### Documentation
 ---
 
-[I provide detailed documentation through my documentation app](https://github.com/Seda145/FerrefyPluginDocumentation)
+[I provide detailed documentation through my documentation app](https://github.com/Seda145/Ferrefy-Plugin-Documentation-App)
 
 The documentation covers plugin requirements, installation, features, media, examples, the compact "how and why" of class implementations, and more.
 
@@ -79,10 +79,10 @@ As Ferrefy, I release highly modular systems as Unreal Engine plugins. Plugins t
 
 I, Roy Wierer, also known as Ferrefy ([chamber of commerce](https://www.kvk.nl/bestellen/#/95694269000061090395) number 95694269) retain all intellectual property rights (including copyright, patent rights, trademark rights, design and design rights, etc.) on all designs, drawings, writings, data carriers or other information, quotations, images, sketches, models, scale models, etc.
 
-The name 'Ferrefy', the Ferrefy logo, and associated branding are protected and may not be used without permission. Any presence of it in the data does not grant any permissions. 
+The name 'Ferrefy', the Ferrefy logo, and associated branding are protected and may not be used. Any presence of it in the data does not grant any permissions. 
 
 ---
 ### News
 ---
 
-After many years of hard work and good intentions, I made the difficult decision I can't continue as Ferrefy. As Ferrefy I have experienced a market so crowded that people can't find me. Lack of visibility, piracy, attacks on my systems, are not worth paying for with my health, so I quit. I have decided to publish all products listed on FAB for free on GitHub, for the good people in our community. I wish the best for you.
+I have decided to publish all products I previously listed on FAB as "Ferrefy" for free on GitHub, for the good people in our community. I wish the best for you.
